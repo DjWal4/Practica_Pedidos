@@ -1,9 +1,5 @@
 package ar.edu.unlam.pb2;
 
-/*import ar.edu.unlam.pb2.dominio.Pedido;
-import ar.edu.unlam.pb2.dominio.PedidoDelivery;
-import ar.edu.unlam.pb2.dominio.PedidoLocal;
-import ar.edu.unlam.pb2.dominio.Producto;*/
 import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.*;
